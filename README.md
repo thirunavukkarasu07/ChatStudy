@@ -132,22 +132,7 @@ server.close()
 
 ## OUTPUT :
 
-server
-
-
-
-
-
-
-
-
-
-<img width="1122" height="449" alt="Screenshot 2025-08-26 155333" src="https://github.com/user-attachments/assets/6ac04c8e-f50c-462d-8557-73409ab32607" />
-
-
-client
-
-<img width="1534" height="356" alt="Screenshot 2025-08-26 155320" src="https://github.com/user-attachments/assets/c233b74d-0bfe-4767-9b44-c3aabadfd7d0" />
+<img width="1840" height="467" alt="image" src="https://github.com/user-attachments/assets/9e757423-34ac-4320-87ef-966f32ed0ebf" />
 
 
 ## Result:
